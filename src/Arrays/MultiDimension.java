@@ -57,22 +57,5 @@ public class MultiDimension {
                    4 5
                    6 7 8 9
          */
-        System.out.println();
-
-        // Outputting a 2D array in shorter hand using Arrays.toString() method
-        int[][] xarr = {
-                {1, 2, 3},
-                {4, 5, 6},
-                {7, 8, 9}
-        };
-        // We can even make it shorter using enhanced for loop
-        for (int[] a : xarr) {
-            System.out.println(Arrays.toString(a));
-        }
-        /*
-              out:  [1, 2, 3]
-                    [4, 5, 6]
-                    [7, 8, 9]
-         */
     }
 }
