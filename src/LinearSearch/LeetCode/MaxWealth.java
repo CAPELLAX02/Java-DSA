@@ -1,6 +1,14 @@
-package LinearSearch;
+package LinearSearch.LeetCode;
 
-public class MaxWealth_LeetCode1672 {
+public class MaxWealth {
+    /**
+     * No: 1672
+     * You are given an m x n integer grid accounts where accounts[i][j]
+     * is the amount of money the i-th customer has in the j-th bank.
+     * Return the wealth that the richest customer has.
+     * A customer's wealth is the amount of money they have in all their bank accounts.
+     * The richest customer is the customer that has the maximum wealth.
+     */
     public static void main(String[] args) {
         int[][] accounts = {
                 {1, 2, 3},

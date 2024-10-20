@@ -1,6 +1,11 @@
-package LinearSearch;
+package LinearSearch.LeetCode;
 
-public class EvenDigits_LeetCode1295 {
+public class EvenDigits {
+    /**
+     * No: 1295
+     * Given an array nums of integers,
+     * return how many of them contain an even number of digits.
+     */
     public static void main(String[] args) {
         int[] nums = { 12, 345, 2, 6, 7896 };
         System.out.println(findNumbers(nums));
