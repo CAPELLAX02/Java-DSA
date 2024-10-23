@@ -1,4 +1,4 @@
-package BinarySearch;
+package _03_BinarySearch;
 
 public class CeilingAndFloor {
     public static void main(String[] args) {

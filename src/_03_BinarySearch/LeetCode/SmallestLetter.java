@@ -1,4 +1,4 @@
-package BinarySearch.LeetCode;
+package _03_BinarySearch.LeetCode;
 
 public class SmallestLetter {
     /*

@@ -1,4 +1,4 @@
-package BinarySearch;
+package _03_BinarySearch;
 
 public class InfiniteSortedArrayBS {
     /**

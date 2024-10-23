@@ -1,4 +1,4 @@
-package LinearSearch.LeetCode;
+package _02_LinearSearch.LeetCode;
 
 public class MaxWealth {
     /**
